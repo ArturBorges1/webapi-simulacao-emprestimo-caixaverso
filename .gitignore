@@ -29,8 +29,7 @@ PublishScripts/
 **/packages/*  
 !**/packages/build/  
 *.nuget.props  
-*.nuget.targets
-appsettings*.json  
+*.nuget.targets  
 src/**/[Bb]in/  
 src/**/[Oo]bj/  
 tests/**/[Bb]in/  
