@@ -45,6 +45,9 @@ O sistema consiste em uma WebApi que cadastra os produtos de empréstimos person
 ### Passos
 
 1. **Clone o repositório:**
+
+   O projeto estará na pasta "c159529-DESAFIO-BACKEND-CSHARP-CAIXAVERSO"
+
    ```bash
    git clone https://github.com/ArturBorges1/webapi-simulacao-emprestimo-caixaverso.git
    cd api-produtos-emprestimo
