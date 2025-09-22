@@ -14,8 +14,7 @@ x86/
 [Aa][Rr][Mm]*/  
 bld/  
 [Bb]in/  
-[Oo]bj/  
-[Ll]og*/  
+[Oo]bj/    
 .vs/  
 artifacts/  
 *.cache  
