@@ -50,7 +50,7 @@ O sistema consiste em uma WebApi que cadastra os produtos de empréstimos person
 
    ```bash
    git clone https://github.com/ArturBorges1/webapi-simulacao-emprestimo-caixaverso.git
-   cd api-produtos-emprestimo
+   cd webapi-simulacao-emprestimo-caixaverso
    ```
 
 2. **Restaure os pacotes:**
