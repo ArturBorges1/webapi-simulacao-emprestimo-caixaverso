@@ -33,5 +33,4 @@ PublishScripts/
 src/**/[Bb]in/  
 src/**/[Oo]bj/  
 tests/**/[Bb]in/  
-tests/**/[Oo]bj/  
-**/Properties/launchSettings.json
+tests/**/[Oo]bj/
